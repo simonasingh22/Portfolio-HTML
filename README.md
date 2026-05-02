@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/Responsive%20Design-✔-brightgreen?style=for-the-badge"/> <img src="https://img.shields.io/badge/UI%2FUX-Modern-blueviolet?style=for-the-badge"/> </p>
 
 📸 Preview
-<p align="center"> <img src="https://via.placeholder.com/900x450.png?text=Portfolio+Preview" alt="Portfolio Preview"/> </p>
+<p align="center"> <img src="assests/image.png?text=Portfolio+Preview" alt="Portfolio Preview"/> </p>
 
 🚀 Live Demo
 <p align="center"> <a href="https://simonasingh-portfolio.netlify.app/"> <img src="https://img.shields.io/badge/🔗%20Live%20Demo-Visit%20Now-10b981?style=for-the-badge"/> </a> </p>
